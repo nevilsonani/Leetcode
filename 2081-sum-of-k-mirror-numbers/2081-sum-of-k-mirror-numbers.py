@@ -1,6 +1,4 @@
 class Solution:
-    def kMirror(self, k: int, n: int) -> int:
-        class Solution:
   def kMirror(self, k: int, n: int) -> int:
     ans = 0
     A = ['0']
