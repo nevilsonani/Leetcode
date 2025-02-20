@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/make-number-of-distinct-characters-equal">2531. Make Number of Distinct Characters Equal</a></h2><h3>Medium</h3><hr><p>You are given two <strong>0-indexed</strong> strings <code>word1</code> and <code>word2</code>.</p>
+<h2><a href="https://leetcode.com/problems/make-number-of-distinct-characters-equal/">2531. Make Number of Distinct Characters Equal</a></h2><h3>Medium</h3><hr><p>You are given two <strong>0-indexed</strong> strings <code>word1</code> and <code>word2</code>.</p>
 
 <p>A <strong>move</strong> consists of choosing two indices <code>i</code> and <code>j</code> such that <code>0 &lt;= i &lt; word1.length</code> and <code>0 &lt;= j &lt; word2.length</code> and swapping <code>word1[i]</code> with <code>word2[j]</code>.</p>
 
